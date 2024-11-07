@@ -7,7 +7,7 @@ public class Digitos {
 
         int cantidaDeDigitos = contarDigitos ( cadenaDigitos);
 
-        System.out.println("Cantidad de digitos en la cadena : " + cadenaDigitos);
+        System.out.println("Cantidad de digitos en la cadena : " + cantidaDeDigitos);
 
     }
     //metodo
