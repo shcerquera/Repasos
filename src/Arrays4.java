@@ -47,3 +47,4 @@ public class Arrays4 {
         }
     }
 }
+//public static void  contarPalabras (String[] palabras)
