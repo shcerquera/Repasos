@@ -1,3 +1,5 @@
+package main;
+
 public class ArraysMedia {
     //repaso  arrays
     public static void main(String[] args) {

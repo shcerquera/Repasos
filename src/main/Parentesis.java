@@ -1,3 +1,5 @@
+package main;
+
 //Un texto está bien parentizado si por cada paréntesis abierto hay otro detrás que lo cierra. Por ejemplo, la cadena
 // Esto (es (un ejemplo) (de) una (cadena bien) parentizada)
 //está bien parentizada.

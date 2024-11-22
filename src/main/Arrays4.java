@@ -1,3 +1,5 @@
+package main;
+
 public class Arrays4 {
     /**
      * Crea un array con los números escritos en letras, que vaya de 1 a 10

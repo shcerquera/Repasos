@@ -1,3 +1,5 @@
+package main;
+
 public class PalabrasLongitud2 {
 //Realiza un programa que lea una cadena de texto y nos diga si alguna palabra tiene una longitud de k caracteres.
     public static void main(String[] args) {

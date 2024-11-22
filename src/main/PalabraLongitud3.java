@@ -1,3 +1,5 @@
+package main;
+
 public class PalabraLongitud3 {
     public static void main(String[] args) {
         String cadena = "Hola, esta es una frase de ejemplo en java, 123658";

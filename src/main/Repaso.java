@@ -1,5 +1,4 @@
-import java.util.HashMap;
-import java.util.Map;
+package main;
 
 public class Repaso {
     //Escribe un programa que reciba una lista de palabras (como un array de cadenas).
