@@ -1,5 +1,4 @@
 package main;
-
 //Un texto está bien parentizado si por cada paréntesis abierto hay otro detrás que lo cierra. Por ejemplo, la cadena
 // Esto (es (un ejemplo) (de) una (cadena bien) parentizada)
 //está bien parentizada.
@@ -10,6 +9,7 @@ package main;
 //    (una)(
 //no lo están.
 //Diseña un programa que nos diga si una cadena está bien parentizada o no.
+
 public class Parentesis {
     public static void main(String[] args) {
 
